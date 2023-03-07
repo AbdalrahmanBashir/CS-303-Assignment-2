@@ -20,3 +20,8 @@ insert: inserts a new element at the specified index in the list
 remove: removes the element at the specified index in the list
 find: returns the index of the first occurrence of the specified element in the list
 display: prints out the contents of the list
+#OUTPUT
+![add front and back and remove front](https://user-images.githubusercontent.com/127059452/223299512-87e644d6-1a19-46fb-b7f8-4b640bf7e139.png)
+![2](https://user-images.githubusercontent.com/127059452/223299534-29b66cf8-585e-48dd-9a3b-71a3bf45ddee.png)
+![3](https://user-images.githubusercontent.com/127059452/223299552-bb4f617f-adc2-48fd-b3dc-4e92f852af1f.png)
+
