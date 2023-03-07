@@ -25,3 +25,7 @@ display: prints out the contents of the list
 ![2](https://user-images.githubusercontent.com/127059452/223299534-29b66cf8-585e-48dd-9a3b-71a3bf45ddee.png)
 ![3](https://user-images.githubusercontent.com/127059452/223299552-bb4f617f-adc2-48fd-b3dc-4e92f852af1f.png)
 
+#Employee Management System
+
+This is a simple employee management system implemented in C++. The system consists of three classes: Employee, Professional, and Nonprofessional. The Employee class is an abstract base class that stores information common to all employees and declares virtual member functions for calculating weekly salary, health care contributions, and vacation days earned. The Professional and Nonprofessional classes are derived classes that implement these member functions for their respective types of employees.
+
